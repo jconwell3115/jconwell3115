@@ -3,12 +3,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jconwell3115)
 ![Followers](https://img.shields.io/github/followers/jconwell3115)
 
+---
 <div id="badges">
   <a href="https://www.linkedin.com/in/jconwellnetworkdevopsprofessional/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
+---
 [![My Skills](https://skillicons.dev/icons?i=aws,ansible,redhat,linux,bash,docker,git,github,githubactions,md,pycharm,py)](https://skillicons.dev)
+
 ---
 <details>
   <summary>Jconwell3115's Stats</summary>

@@ -1,5 +1,5 @@
-# 👋 Hey there, I'm Jonathan!
-**Network Automation Enthusiast, saving the world one network automation at a time**
+# 👋 Greetings and welcome to my README! :alien:
+**I am a Network Automation Enthusiast, saving the world one network automation at a time**
 
 ---
 

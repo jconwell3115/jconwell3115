@@ -51,7 +51,7 @@
 ---
 **I am a Network Automation Enthusiast, saving the world one network automation at a time**
 
-I spent the first 20 years of my professional life as a restaurant kitchen manager.  I went back to college at the age of 34 and obtained a Master's degree in Cybersecurity in 3.5 years.  I landed as a Senior Network Engineer at NASA for almost 7 years before pivoting into a Senior Network DevOps Engineer role.  I am a self taught coder and an innovative network automation geek of the higest order.
+I spent the first 20 years of my professional life as a restaurant kitchen manager.  I went back to college at the age of 34 and obtained a Master's degree in Cybersecurity in 3.5 years.  I landed as a Senior Network Engineer at NASA for almost 7 years before pivoting into a Senior Network DevOps Engineer role focused on automating every network function possible with Ansible and Python.  I am a self taught coder and an innovative network automation geek of the higest order.
 
 With a strong focus on **automation innovation**, I thrive on building high-performing automation workflows and delivering scalable, innovative solutions that drive real impact. My passion lies in **customer experience** and **network automation**, where I turn complex challenges into opportunities for growth.
 

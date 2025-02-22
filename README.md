@@ -9,7 +9,6 @@
 ![Ansible](https://img.shields.io/badge/Config%20Management-Ansible-blue?logo=Ansible&logoColor=green)
 ![BASH](https://img.shields.io/badge/Scripting-BASH-blue?logo=Linux&logoColor=green)
 
-
 **Automation Controllers**
 
 ![Catalyst Center](https://img.shields.io/badge/Controller-Catalyst%20Center-green?logo=Cisco&logoColor=green)

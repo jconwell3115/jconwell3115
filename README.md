@@ -27,7 +27,7 @@
 ![Version Control](https://img.shields.io/badge/VCS-Git-red?logo=Git&logoColor=yellow)
 
 ---
-With a strong focus on **automation innovation**, I thrive on building high-performing automation workflows and delivering scalable, innovative solutions that drive real impact. My passion lies in **customer experience** and **on-prem network automation**, where I turn complex challenges into opportunities for growth.
+With a strong focus on **automation innovation**, I thrive on building high-performing automation workflows and delivering scalable, innovative solutions that drive real impact. My passion lies in **customer experience** and **network automation**, where I turn complex challenges into opportunities for growth.
 
 📖 Network engineer turned Network DevOps engineer through necessity and love of coding.
 

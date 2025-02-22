@@ -1,6 +1,8 @@
 # 👋 Hey there, I'm Jonathan!
 **Network Automation Enthusiast, saving the world one network automation at a time**
 
+---
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=green&color=3776AB)
@@ -25,6 +27,7 @@
 ![SecureCRT](https://img.shields.io/badge/Secure_Shell-SecureCRT-red?logo=Shell&logoColor=yellow)
 ![Version Control](https://img.shields.io/badge/VCS-Git-red?logo=Git&logoColor=yellow)
 
+---
 With a strong focus on **automation innovation**, I thrive on building high-performing automation workflows and delivering scalable, innovative solutions that drive real impact. My passion lies in **customer experience** and **on-prem network automation**, where I turn complex challenges into opportunities for growth.
 
 📖 Network engineer turned Network DevOps engineer through necessity and love of coding.

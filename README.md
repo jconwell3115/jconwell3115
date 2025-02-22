@@ -3,25 +3,31 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![Ansible](https://img.shields.io/badge/Config%20Management-Ansible-blue?logo=Ansible)
-![BASH](https://img.shields.io/badge/Scripting-BASH-blue?logo=Linux)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=green&color=3776AB)
+![Ansible](https://img.shields.io/badge/Config%20Management-Ansible-blue?logo=Ansible&logoColor=green)
+![BASH](https://img.shields.io/badge/Scripting-BASH-blue?logo=Linux&logoColor=green)
 
 
-**PLatform Automation**
+**Automation Controllers**
 
-![Catalyst Center](https://img.shields.io/badge/PLatform-Catalyst%20Center-blue?logo=Cisco)
-![Cisco](https://img.shields.io/badge/Platform-Cisco%20IOSXE-green?logo=cisco)
-![Ansible Automation Platform](https://img.shields.io/badge/Platform-AAP-green?logo=Ansible)
+![Catalyst Center](https://img.shields.io/badge/Controller-Catalyst%20Center-green?logo=Cisco&logoColor=green)
+![Ansible Automation Platform](https://img.shields.io/badge/Controller-AAP-green?logo=Ansible&logoColor=green)
 
 
-**Operating Systems**
+**PLatforms**
 
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624&logoColor=green)
+![Cisco](https://img.shields.io/badge/System-Cisco%20IOSXE-yellow?logo=cisco&logoColor=green)
+
+**Other Tools**
+
+![Pycharm](https://img.shields.io/badge/IDE-PyCharm-red?logo=Pycharm&logoColor=yellow)
+![SecureCRT](https://img.shields.io/badge/Secure_Shell-SecureCRT-red?logo=Shell&logoColor=yellow)
+![Version Control](https://img.shields.io/badge/VCS-Git-red?logo=Git&logoColor=yellow)
 
 With a strong focus on **automation innovation**, I thrive on building high-performing automation workflows and delivering scalable, innovative solutions that drive real impact. My passion lies in **customer experience** and **on-prem network automation**, where I turn complex challenges into opportunities for growth.
 
-📖 Network engineer turned DevOps engineer through necessity and love of coding.
+📖 Network engineer turned Network DevOps engineer through necessity and love of coding.
 
 🔭 Leading teams on transformative projects to reshape industries.
 

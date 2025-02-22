@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
+[![My Skills](https://skillicons.dev/icons?i=aws,ansible,redhat,linux,bash,docker,git,github,githubactions,md,pycharm,py)](https://skillicons.dev)
 ---
 <details>
   <summary>Jconwell3115's Stats</summary>
@@ -42,6 +43,7 @@
 ![Pycharm](https://img.shields.io/badge/IDE-PyCharm-red?logo=Pycharm&logoColor=yellow)
 ![SecureCRT](https://img.shields.io/badge/Secure_Shell-SecureCRT-red?logo=Shell&logoColor=yellow)
 ![Version Control](https://img.shields.io/badge/VCS-Git-red?logo=Git&logoColor=yellow)
+
 
 ---
 **I am a Network Automation Enthusiast, saving the world one network automation at a time**

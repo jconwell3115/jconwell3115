@@ -2,6 +2,9 @@
 **I am a Network Automation Enthusiast, saving the world one network automation at a time**
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=jconwell3115)
+![Followers](https://img.shields.io/github/followers/jconwell3115)
+---
 
 **Languages**
 

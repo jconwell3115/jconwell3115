@@ -1,9 +1,22 @@
-# 👋 Greetings and welcome to my README! :alien:
-**I am a Network Automation Enthusiast, saving the world one network automation at a time**
+# :alien::wave: Greetings and welcome to my README! :wave::alien:
 
----
 ![Profile Views](https://komarev.com/ghpvc/?username=jconwell3115)
 ![Followers](https://img.shields.io/github/followers/jconwell3115)
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jconwellnetworkdevopsprofessional/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+---
+<details>
+  <summary>Jconwell3115's Stats</summary>
+  
+[![](https://raw.githubusercontent.com/jconwell3115/jconwell3115/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jconwell3115/jconwell3115/main/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jconwell3115/jconwell3115/main/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jconwell3115/jconwell3115/main/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jconwell3115/jconwell3115/main/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</details>
 
 ---
 
@@ -31,6 +44,10 @@
 ![Version Control](https://img.shields.io/badge/VCS-Git-red?logo=Git&logoColor=yellow)
 
 ---
+**I am a Network Automation Enthusiast, saving the world one network automation at a time**
+
+I spent the first 20 years of my professional life as a restaurant kitchen manager.  I went back to college at the age of 34 and obtained a Master's degree in Cybersecurity in 3.5 years.  I landed as a Senior Network Engineer at NASA for almost 7 years before pivoting into a Senior Network DevOps Engineer role.  I am a self taught coder and an innovative network automation geek of the higest order.
+
 With a strong focus on **automation innovation**, I thrive on building high-performing automation workflows and delivering scalable, innovative solutions that drive real impact. My passion lies in **customer experience** and **network automation**, where I turn complex challenges into opportunities for growth.
 
 📖 Network engineer turned Network DevOps engineer through necessity and love of coding.
@@ -42,7 +59,7 @@ With a strong focus on **automation innovation**, I thrive on building high-perf
 🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence. 
 
 ***
-[![jconwell3115's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jconwell3115&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jconwell3115/github-readme-stats#gh-dark-mode-only)
+
 
 <!---
 jconwell3115/jconwell3115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

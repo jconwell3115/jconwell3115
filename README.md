@@ -1,4 +1,4 @@
-# :alien::wave: Greetings and welcome to my README! :wave::alien:
+# 🐍 👋 Greetings and welcome to my README! 👋🐍
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jconwell3115)
 ![Followers](https://img.shields.io/github/followers/jconwell3115)

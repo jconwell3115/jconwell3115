@@ -26,26 +26,26 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=green&color=3776AB)
-![Ansible](https://img.shields.io/badge/Config%20Management-Ansible-blue?logo=Ansible&logoColor=green)
-![BASH](https://img.shields.io/badge/Scripting-BASH-blue?logo=Linux&logoColor=green)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=brightgreen&color=3776AB)
+![Ansible](https://img.shields.io/badge/Config%20Management-Ansible-3776AB?logo=Ansible&logoColor=brightgreen)
+![BASH](https://img.shields.io/badge/Scripting-BASH-3776AB?logo=Linux&logoColor=brightgreen)
 
 **Automation Controllers**
 
-![Catalyst Center](https://img.shields.io/badge/Controller-Catalyst%20Center-green?logo=Cisco&logoColor=green)
-![Ansible Automation Platform](https://img.shields.io/badge/Controller-AAP-green?logo=Ansible&logoColor=green)
+![Catalyst Center](https://img.shields.io/badge/Controller-Catalyst%20Center-green?logo=Cisco&logoColor=brightgreen)
+![Ansible Automation Platform](https://img.shields.io/badge/Controller-AAP-green?logo=Ansible&logoColor=brightgreen)
 
 
 **PLatforms**
 
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624&logoColor=green)
-![Cisco](https://img.shields.io/badge/System-Cisco%20IOSXE-yellow?logo=cisco&logoColor=green)
+![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624&logoColor=brightgreen)
+![Cisco](https://img.shields.io/badge/System-Cisco%20IOSXE-FCC624?logo=cisco&logoColor=brightgreen)
 
 **Other Tools**
 
-![Pycharm](https://img.shields.io/badge/IDE-PyCharm-red?logo=Pycharm&logoColor=yellow)
-![SecureCRT](https://img.shields.io/badge/Secure_Shell-SecureCRT-red?logo=Shell&logoColor=yellow)
-![Version Control](https://img.shields.io/badge/VCS-Git-red?logo=Git&logoColor=yellow)
+![Pycharm](https://img.shields.io/badge/IDE-PyCharm-red?logo=Pycharm&logoColor=brightgreen)
+![SecureCRT](https://img.shields.io/badge/Secure_Shell-SecureCRT-red?logo=Shell&logoColor=brightgreen)
+![Version Control](https://img.shields.io/badge/VCS-Git-red?logo=Git&logoColor=brightgreen)
 
 
 ---

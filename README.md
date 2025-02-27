@@ -10,7 +10,7 @@
   </a>
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=aws,ansible,redhat,linux,bash,docker,git,github,githubactions,md,pycharm,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,ansible,redhat,linux,bash,vim,docker,git,github,githubactions,md,regex,pycharm,py,anaconda)](https://skillicons.dev)
 
 ---
 <details>

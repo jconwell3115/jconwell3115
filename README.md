@@ -57,7 +57,7 @@
 ![PCAP](https://img.shields.io/badge/PCAP-blue?logo=python&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Linux%2B-red?logo=comptia&logoColor=white&logoSize=auto)
 ![CCNA](https://img.shields.io/badge/CCNA-blue?logo=cisco&logoColor=white&logoSize=auto)
-![CCS Wireless](https://img.shields.io/badge/Cisco%20CCS--Wireless_x2-blue?logo=cisco&logoColor=white&logoSize=auto)
+![CCS Wireless](https://img.shields.io/badge/CCS--Wireless_x2-blue?logo=cisco&logoColor=white&logoSize=auto)
 ![Devnet](https://img.shields.io/badge/Cisco_Devnet_Associate--Coming_Soon-yellow?logo=cisco&logoColor=white&logoSize=auto&labelColor=yellow)
 
 

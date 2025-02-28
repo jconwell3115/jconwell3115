@@ -1,4 +1,4 @@
-# 🐍 👋 Greetings and welcome to my README! 👋🐍
+# 🐍👋 Greetings and welcome to my README! 👋🐍
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jconwell3115)
 ![Followers](https://img.shields.io/github/followers/jconwell3115)
@@ -29,13 +29,13 @@
 
 ---
 
-### :hammer_and_wrench: **Languages**
+### 	:abcd: **Languages**
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=brightgreen&color=3776AB&logoSize=auto)
 ![Ansible](https://img.shields.io/badge/Config%20Management-Ansible-3776AB?logo=Ansible&logoColor=brightgreen&logoSize=auto)
 ![BASH](https://img.shields.io/badge/Scripting-BASH-3776AB?logo=Linux&logoColor=brightgreen&logoSize=auto)
 
-### :loop: **Automation Controllers**
+### :infinity: **Automation Controllers**
 
 ![Catalyst Center](https://img.shields.io/badge/Controller-Catalyst%20Center-green?logo=Cisco&logoColor=brightgreen&logoSize=auto)
 ![Ansible Automation Platform](https://img.shields.io/badge/Controller-AAP-green?logo=Ansible&logoColor=brightgreen&logoSize=auto)
@@ -46,7 +46,7 @@
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624&logoColor=brightgreen&logoSize=auto)
 ![Cisco](https://img.shields.io/badge/System-Cisco%20IOSXE-FCC624?logo=cisco&logoColor=brightgreen&logoSize=auto)
 
-### :briefcase: **Other Tools**
+### :hammer_and_wrench: **Other Tools**
 
 ![Pycharm](https://img.shields.io/badge/IDE-PyCharm-red?logo=Pycharm&logoColor=brightgreen&logoSize=auto)
 ![SecureCRT](https://img.shields.io/badge/Secure_Shell-SecureCRT-red?logo=Shell&logoColor=brightgreen&logoSize=auto)

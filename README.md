@@ -10,6 +10,7 @@
   </a>
 
 ---
+### :+1: **Skills** :+1:
 [![My Skills](https://skillicons.dev/icons?i=aws,ansible,redhat,linux,bash,vim,docker,git,github,githubactions,md,regex,pycharm,py,anaconda)](https://skillicons.dev)
 
 ---
@@ -50,6 +51,11 @@
 ![Pycharm](https://img.shields.io/badge/IDE-PyCharm-red?logo=Pycharm&logoColor=brightgreen)
 ![SecureCRT](https://img.shields.io/badge/Secure_Shell-SecureCRT-red?logo=Shell&logoColor=brightgreen)
 ![Version Control](https://img.shields.io/badge/VCS-Git-red?logo=Git&logoColor=brightgreen)
+
+### :books: Certifications
+![PCEP](https://img.shields.io/badge/PCEP-brightgreen?logo=python&logoColor=white)
+![PCAP](https://img.shields.io/badge/PCAP-blue?logo=python&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-blue?logo=cisco&logoColor=white)
 
 
 ---

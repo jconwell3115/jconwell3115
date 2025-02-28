@@ -31,31 +31,34 @@
 
 ### :hammer_and_wrench: **Languages**
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=brightgreen&color=3776AB)
-![Ansible](https://img.shields.io/badge/Config%20Management-Ansible-3776AB?logo=Ansible&logoColor=brightgreen)
-![BASH](https://img.shields.io/badge/Scripting-BASH-3776AB?logo=Linux&logoColor=brightgreen)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=brightgreen&color=3776AB&logoSize=auto)
+![Ansible](https://img.shields.io/badge/Config%20Management-Ansible-3776AB?logo=Ansible&logoColor=brightgreen&logoSize=auto)
+![BASH](https://img.shields.io/badge/Scripting-BASH-3776AB?logo=Linux&logoColor=brightgreen&logoSize=auto)
 
 ### :loop: **Automation Controllers**
 
-![Catalyst Center](https://img.shields.io/badge/Controller-Catalyst%20Center-green?logo=Cisco&logoColor=brightgreen)
-![Ansible Automation Platform](https://img.shields.io/badge/Controller-AAP-green?logo=Ansible&logoColor=brightgreen)
+![Catalyst Center](https://img.shields.io/badge/Controller-Catalyst%20Center-green?logo=Cisco&logoColor=brightgreen&logoSize=auto)
+![Ansible Automation Platform](https://img.shields.io/badge/Controller-AAP-green?logo=Ansible&logoColor=brightgreen&logoSize=auto)
 
 
 ### :computer: **PLatforms**
 
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624&logoColor=brightgreen)
-![Cisco](https://img.shields.io/badge/System-Cisco%20IOSXE-FCC624?logo=cisco&logoColor=brightgreen)
+![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624&logoColor=brightgreen&logoSize=auto)
+![Cisco](https://img.shields.io/badge/System-Cisco%20IOSXE-FCC624?logo=cisco&logoColor=brightgreen&logoSize=auto)
 
 ### :briefcase: **Other Tools**
 
-![Pycharm](https://img.shields.io/badge/IDE-PyCharm-red?logo=Pycharm&logoColor=brightgreen)
-![SecureCRT](https://img.shields.io/badge/Secure_Shell-SecureCRT-red?logo=Shell&logoColor=brightgreen)
-![Version Control](https://img.shields.io/badge/VCS-Git-red?logo=Git&logoColor=brightgreen)
+![Pycharm](https://img.shields.io/badge/IDE-PyCharm-red?logo=Pycharm&logoColor=brightgreen&logoSize=auto)
+![SecureCRT](https://img.shields.io/badge/Secure_Shell-SecureCRT-red?logo=Shell&logoColor=brightgreen&logoSize=auto)
+![Version Control](https://img.shields.io/badge/VCS-Git-red?logo=Git&logoColor=brightgreen&logoSize=auto)
 
 ### :books: Certifications
-![PCEP](https://img.shields.io/badge/PCEP-brightgreen?logo=python&logoColor=white)
-![PCAP](https://img.shields.io/badge/PCAP-blue?logo=python&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA-blue?logo=cisco&logoColor=white)
+![PCEP](https://img.shields.io/badge/PCEP-brightgreen?logo=python&logoColor=white&logoSize=auto)
+![PCAP](https://img.shields.io/badge/PCAP-blue?logo=python&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Linux%2B-red?logo=comptia&logoColor=white&logoSize=auto)
+![CCNA](https://img.shields.io/badge/CCNA-blue?logo=cisco&logoColor=white&logoSize=auto)
+![Devnet](https://img.shields.io/badge/Cisco_Devnet_Associate--Coming_Soon-yellow?logo=cisco&logoColor=white&logoSize=auto&labelColor=yellow)
+
 
 
 ---

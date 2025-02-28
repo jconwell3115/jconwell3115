@@ -52,7 +52,7 @@
 ![SecureCRT](https://img.shields.io/badge/Secure_Shell-SecureCRT-red?logo=Shell&logoColor=brightgreen&logoSize=auto)
 ![Version Control](https://img.shields.io/badge/VCS-Git-red?logo=Git&logoColor=brightgreen&logoSize=auto)
 
-### :books: Certifications
+### 📜 Certifications
 ![PCEP](https://img.shields.io/badge/PCEP-brightgreen?logo=python&logoColor=white&logoSize=auto)
 ![PCAP](https://img.shields.io/badge/PCAP-blue?logo=python&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Linux%2B-red?logo=comptia&logoColor=white&logoSize=auto)

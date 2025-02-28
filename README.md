@@ -28,24 +28,24 @@
 
 ---
 
-**Languages**
+### :hammer_and_wrench: **Languages**
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=brightgreen&color=3776AB)
 ![Ansible](https://img.shields.io/badge/Config%20Management-Ansible-3776AB?logo=Ansible&logoColor=brightgreen)
 ![BASH](https://img.shields.io/badge/Scripting-BASH-3776AB?logo=Linux&logoColor=brightgreen)
 
-**Automation Controllers**
+### :loop: **Automation Controllers**
 
 ![Catalyst Center](https://img.shields.io/badge/Controller-Catalyst%20Center-green?logo=Cisco&logoColor=brightgreen)
 ![Ansible Automation Platform](https://img.shields.io/badge/Controller-AAP-green?logo=Ansible&logoColor=brightgreen)
 
 
-**PLatforms**
+### :computer: **PLatforms**
 
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624&logoColor=brightgreen)
 ![Cisco](https://img.shields.io/badge/System-Cisco%20IOSXE-FCC624?logo=cisco&logoColor=brightgreen)
 
-**Other Tools**
+### :briefcase: **Other Tools**
 
 ![Pycharm](https://img.shields.io/badge/IDE-PyCharm-red?logo=Pycharm&logoColor=brightgreen)
 ![SecureCRT](https://img.shields.io/badge/Secure_Shell-SecureCRT-red?logo=Shell&logoColor=brightgreen)
@@ -55,7 +55,7 @@
 ---
 **I am a Network Automation Enthusiast, saving the world one network automation at a time**
 
-I spent the first 20 years of my professional life as a restaurant kitchen manager.  I went back to college at the age of 34 and obtained a Master's degree in Cybersecurity in 3.5 years.  I landed as a Senior Network Engineer at NASA for almost 7 years before pivoting into a Senior Network DevOps Engineer role focused on automating every network function possible with Ansible and Python.  I am a self taught coder and an innovative network automation geek of the higest order.
+I spent the first 20 years of my professional life as a restaurant kitchen manager.  I went back to college at the age of 34 and obtained a Master's :scroll: in Cybersecurity in 3.5 years.  I landed as a Senior Network Engineer at NASA :rocket::earth_americas: for almost 7 years before pivoting into a Senior Network DevOps Engineer role focused on automating every network function possible with Ansible and Python.  I am a self taught coder and an innovative network automation geek of the higest order.
 
 With a strong focus on **automation innovation**, I thrive on building high-performing automation workflows and delivering scalable, innovative solutions that drive real impact. My passion lies in **customer experience** and **network automation**, where I turn complex challenges into opportunities for growth.
 
@@ -67,6 +67,7 @@ With a strong focus on **automation innovation**, I thrive on building high-perf
 
 🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence. 
 
+:notebook_with_decorative_cover: Currently Studying for the **Cisco Devnet Associate Certification**
 ***
 
 

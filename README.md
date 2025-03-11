@@ -32,6 +32,8 @@
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=brightgreen&color=3776AB&logoSize=auto)
 ![Ansible](https://img.shields.io/badge/Config%20Management-Ansible-3776AB?logo=Ansible&logoColor=brightgreen&logoSize=auto)
 ![BASH](https://img.shields.io/badge/Scripting-BASH-3776AB?logo=Linux&logoColor=brightgreen&logoSize=auto)
+![Jinja](https://img.shields.io/badge/Template-Jinja2-3776AB?logo=Jinja&logoColor=brightgreen&logoSize=auto)
+
 
 ### :infinity: **Automation Controllers**
 

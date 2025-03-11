@@ -35,8 +35,10 @@
 
 ### :infinity: **Automation Controllers**
 
-![Catalyst Center](https://img.shields.io/badge/Controller-Catalyst%20Center-green?logo=Cisco&logoColor=brightgreen&logoSize=auto)
-![Ansible Automation Platform](https://img.shields.io/badge/Controller-AAP-green?logo=Ansible&logoColor=brightgreen&logoSize=auto)
+![Catalyst Center](https://img.shields.io/badge/Cisco-Catalyst%20Center-green?logo=Cisco&logoColor=brightgreen&logoSize=auto)
+![Ansible Automation Platform](https://img.shields.io/badge/RedHat-AAP-green?logo=Ansible&logoColor=brightgreen&logoSize=auto)
+![Arista](https://img.shields.io/badge/Arista-CVP-green?logo=A&logoColor=brightgreen&logoSize=auto)
+
 
 
 ### :computer: **PLatforms**

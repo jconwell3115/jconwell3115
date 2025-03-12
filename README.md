@@ -47,6 +47,8 @@
 
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624&logoColor=brightgreen&logoSize=auto)
 ![Cisco](https://img.shields.io/badge/System-Cisco%20IOSXE-FCC624?logo=cisco&logoColor=brightgreen&logoSize=auto)
+![Aruba](https://img.shields.io/badge/System-Aruba%20AOS--CX-FCC624?logo=HP&logoColor=brightgreen&logoSize=auto)
+
 
 ### :hammer_and_wrench: **Other Tools**
 

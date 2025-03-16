@@ -29,32 +29,32 @@
 
 ### 	:abcd: **Languages**
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=brightgreen&color=3776AB&logoSize=auto)
-![Ansible](https://img.shields.io/badge/Config%20Management-Ansible-3776AB?logo=Ansible&logoColor=brightgreen&logoSize=auto)
-![BASH](https://img.shields.io/badge/Scripting-BASH-3776AB?logo=Linux&logoColor=brightgreen&logoSize=auto)
-![Jinja](https://img.shields.io/badge/Template-Jinja2-3776AB?logo=Jinja&logoColor=brightgreen&logoSize=auto)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB&logoSize=auto)
+![Ansible](https://img.shields.io/badge/Config%20Management-Ansible-3776AB?logo=Ansible&logoColor=white&logoSize=auto)
+![BASH](https://img.shields.io/badge/Shell-BASH-3776AB?logo=Linux&logoColor=white&logoSize=auto)
+![Jinja](https://img.shields.io/badge/Template-Jinja2-3776AB?logo=Jinja&logoColor=white&logoSize=auto)
 
 
 ### :infinity: **Automation Controllers**
 
-![Catalyst Center](https://img.shields.io/badge/Cisco-Catalyst%20Center-green?logo=Cisco&logoColor=brightgreen&logoSize=auto)
-![Ansible Automation Platform](https://img.shields.io/badge/RedHat-AAP-green?logo=Ansible&logoColor=brightgreen&logoSize=auto)
-![Arista](https://img.shields.io/badge/Arista-CVP-green?logo=A&logoColor=brightgreen&logoSize=auto)
+![Catalyst Center](https://img.shields.io/badge/Cisco-Catalyst%20Center-green?logo=Cisco&logoColor=white&logoSize=auto)
+![Ansible Automation Platform](https://img.shields.io/badge/RedHat-AAP-green?logo=Ansible&logoColor=white&logoSize=auto)
+![Arista](https://img.shields.io/badge/Arista-CVP-green?logo=A&logoColor=white&logoSize=auto)
 
 
 
 ### :computer: **PLatforms**
 
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624&logoColor=brightgreen&logoSize=auto)
-![Cisco](https://img.shields.io/badge/System-Cisco%20IOSXE-FCC624?logo=cisco&logoColor=brightgreen&logoSize=auto)
-![Aruba](https://img.shields.io/badge/System-Aruba%20AOS--CX-FCC624?logo=HP&logoColor=brightgreen&logoSize=auto)
+![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624&logoColor=white&logoSize=auto)
+![Cisco](https://img.shields.io/badge/System-Cisco%20IOS|IOS--XE-FCC624?logo=cisco&logoColor=white&logoSize=auto)
+![Aruba](https://img.shields.io/badge/System-Aruba%20AOS|AOS--CX-FCC624?logo=HP&logoColor=white&logoSize=auto)
 
 
 ### :hammer_and_wrench: **Other Tools**
 
-![Pycharm](https://img.shields.io/badge/IDE-PyCharm-red?logo=Pycharm&logoColor=brightgreen&logoSize=auto)
-![SecureCRT](https://img.shields.io/badge/Secure_Shell-SecureCRT-red?logo=Shell&logoColor=brightgreen&logoSize=auto)
-![Version Control](https://img.shields.io/badge/VCS-Git-red?logo=Git&logoColor=brightgreen&logoSize=auto)
+![Pycharm](https://img.shields.io/badge/IDE-PyCharm-red?logo=Pycharm&logoColor=white&logoSize=auto)
+![SecureCRT](https://img.shields.io/badge/Secure_Shell-SecureCRT-red?logo=Shell&logoColor=white&logoSize=auto)
+![Version Control](https://img.shields.io/badge/VCS-Git-red?logo=Git&logoColor=white&logoSize=auto)
 
 ### 📜 Certifications
 ![PCEP](https://img.shields.io/badge/PCEP-brightgreen?logo=python&logoColor=white&logoSize=auto)

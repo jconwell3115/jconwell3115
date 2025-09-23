@@ -11,7 +11,7 @@
 
 ---
 ### :+1: **Skills** :+1:
-[![My Skills](https://skillicons.dev/icons?i=aws,ansible,redhat,linux,bash,vim,docker,git,github,githubactions,md,regex,pycharm,py,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,ansible,redhat,linux,bash,docker,git,github,githubactions,md,regex,vscode,py,anaconda,obsidian)](https://skillicons.dev)
 
 ---
 <details>
@@ -52,17 +52,28 @@
 
 ### :hammer_and_wrench: **Other Tools**
 
-![Pycharm](https://img.shields.io/badge/IDE-PyCharm-red?logo=Pycharm&logoColor=white&logoSize=auto)
+![VSCode](https://img.shields.io/badge/IDE-VS_Code-red?logo=visual-studio-code&logoColor=white&logoSize=auto)
 ![SecureCRT](https://img.shields.io/badge/Secure_Shell-SecureCRT-red?logo=Shell&logoColor=white&logoSize=auto)
 ![Version Control](https://img.shields.io/badge/VCS-Git-red?logo=Git&logoColor=white&logoSize=auto)
 
 ### 📜 Certifications
-![PCEP](https://img.shields.io/badge/PCEP-brightgreen?logo=python&logoColor=white&logoSize=auto)
-![PCAP](https://img.shields.io/badge/PCAP-blue?logo=python&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Linux%2B-red?logo=comptia&logoColor=white&logoSize=auto)
-![CCNA](https://img.shields.io/badge/CCNA-blue?logo=cisco&logoColor=white&logoSize=auto)
-![CCS Wireless](https://img.shields.io/badge/CCS--Wireless_x2-blue?logo=cisco&logoColor=white&logoSize=auto)
-![Devnet](https://img.shields.io/badge/Cisco_Devnet_Associate--Coming_Soon-yellow?logo=cisco&logoColor=white&logoSize=auto&labelColor=yellow)
+- **Python**
+
+  ![PCEP](https://img.shields.io/badge/PCEP-brightgreen?logo=python&logoColor=white&logoSize=auto&labelColor=grey)
+  ![PCAP](https://img.shields.io/badge/PCAP-blue?logo=python&logoColor=white&logoSize=auto&labelColor=grey)
+- **CompTIA**
+
+  ![Static Badge](https://img.shields.io/badge/A%2B-red?logo=comptia&logoColor=white&logoSize=auto&labelColor=grey)
+  ![Static Badge](https://img.shields.io/badge/Network%2B-red?logo=comptia&logoColor=white&logoSize=auto&labelColor=grey)
+  ![Static Badge](https://img.shields.io/badge/Security%2B-red?logo=comptia&logoColor=white&logoSize=auto&labelColor=grey)
+  ![Static Badge](https://img.shields.io/badge/Linux%2B-red?logo=comptia&logoColor=white&logoSize=auto&labelColor=grey)
+
+- **Cisco**
+
+  ![CCNA](https://img.shields.io/badge/CCNA-blue?logo=cisco&logoColor=white&logoSize=auto&labelColor=grey)
+  ![CCS Wireless](https://img.shields.io/badge/CCS--Wireless_Design-blue?logo=cisco&logoColor=white&logoSize=auto&labelColor=grey)
+  ![CCS Wireless](https://img.shields.io/badge/CCS--Wireless_Implementation-blue?logo=cisco&logoColor=white&logoSize=auto&labelColor=grey)
+  ![Devnet](https://img.shields.io/badge/Cisco_Devnet_Associate-blue?logo=cisco&logoColor=white&logoSize=auto&labelColor=grey)
 
 
 

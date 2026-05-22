@@ -11,7 +11,7 @@
 
 ---
 ### :+1: **Skills** :+1:
-[![My Skills](https://skillicons.dev/icons?i=aws,ansible,redhat,linux,bash,docker,git,github,githubactions,graphql,md,regex,vscode,js,py,anaconda,postman,obsidian&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,ansible,redhat,linux,bash,docker,git,github,githubactions,graphql,md,regex,vscode,js,py,anaconda,postman,obsidian,cloudflare,grafana,graphql&perline=9)](https://skillicons.dev)
 
 ---
 <details>

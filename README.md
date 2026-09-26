@@ -92,7 +92,7 @@ With a strong focus on **automation innovation**, I thrive on building high-perf
 
 🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence. 
 
-:notebook_with_decorative_cover: Currently Studying for the **Cisco Devnet Associate Certification**
+:notebook_with_decorative_cover: Currently Studying for the **Redhat Certified System Administrator**
 ***
 
 
